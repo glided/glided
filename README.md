@@ -1,21 +1,22 @@
 <p align="center">
   <br>
   <samp>
-    Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="github.com/glided">don</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/glided">Don</a></b>.
+    <br>(Entry Level) Backend Developer<br>
 
 </samp>
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixelsforbreakfast.com%2Fpost%2F100475254993%2Fskelegame-run-cycle-skelepantsman-did-a-fun&psig=AOvVaw1cHz-P1JkzpZuPei3ctHbR&ust=1646187855840000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOia-8vuo_YCFQAAAAAdAAAAABAD" width="200"/>
-
-</p>
-
+@@ -13,36 +13,27 @@
 
 <details align="center">
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
+<summary> <b> <samp> etc </samp></b></summary>
 <samp>
  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+ <b><h2 style="color: #fc6203">M O R E I N F O  &nbsp;  !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
@@ -31,6 +32,7 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
   &nbsp; 
   &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCwB_XYIEyVJRVzxrWX6aKlw">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;

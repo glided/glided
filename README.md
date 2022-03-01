@@ -1,12 +1,12 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="github.com/glided">don</a></b>.
     <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixelsforbreakfast.com%2Fpost%2F100475254993%2Fskelegame-run-cycle-skelepantsman-did-a-fun&psig=AOvVaw1cHz-P1JkzpZuPei3ctHbR&ust=1646187855840000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOia-8vuo_YCFQAAAAAdAAAAABAD" width="200"/>
 
 </p>
 
